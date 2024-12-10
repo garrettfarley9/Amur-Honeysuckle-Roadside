@@ -5,6 +5,7 @@ This repository contains an image classification model used to identify Amur Hon
 This R-CNN model detects Amur Honeysuckle using a Raspberry Pi camera with lines, instead of bounding boxes?
 To look up: Hough Transform
 https://huggingface.co/sb3/tqc-FetchPickAndPlace-v1
+https://huggingface.co/foduucom/plant-leaf-detection-and-classification/tree/main
 
 ##RL model for Robot Locomotion
 This RL model uses PPO? to navigate through the world which rewards agent for displacement of stem? number of stems cut? finding Amur Honeysuckle? cutting tall/thick stems?
