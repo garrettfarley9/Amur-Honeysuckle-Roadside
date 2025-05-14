@@ -1,5 +1,8 @@
 # Amur-Honeysuckle-Roadside
 This repository contains an image classification model used to identify Amur Honeysuckle, and an RL model to move a robot with the intention to be loaded into a robot to cut Amur Honeysuckle on roadsides
+##TODO
+Hung - Robotics: movement, GPS, saw, construction, clamp for pulling
+Garrett - R cnn bounding box model, RL model for seeking and chopping, GIS database
 
 ##Object Detection Model
 This R-CNN model detects Amur Honeysuckle using a Raspberry Pi camera with lines, instead of bounding boxes?
@@ -19,3 +22,7 @@ https://www.missouribotanicalgarden.org/gardens-gardening/gardening-in-st-louis/
 https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.12332
 
 https://scholar.google.com/scholar?start=60&q=lonicera+maackii+removal&hl=en&as_sdt=0,31&as_vis=1#d=gs_qabs&t=1732059072223&u=%23p%3D5sTbU7zy-tkJ
+
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00444-8
+
+https://datascience.oneoffcoder.com/restricted-boltzmann-machine.html
